@@ -83,7 +83,7 @@ bursts up to 60 consecutive bits → 20/20.
 
 ## Install
 
-Python 3.10 or newer.
+Python 3.11 or newer.
 
 **Linux (Debian / Ubuntu)**
 
