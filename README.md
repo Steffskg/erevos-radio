@@ -3,6 +3,8 @@
 **Text messages and files over any radio transceiver — no internet, no
 servers, no third-party digital-mode software.**
 
+![EREVOS RADIO console](docs/screenshot.png)
+
 The whole chain is written from scratch in Python: modulation, timing
 recovery, error correction, framing and the link protocol. The only
 dependencies are `numpy` and `sounddevice`.

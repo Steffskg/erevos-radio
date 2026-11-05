@@ -27,7 +27,7 @@ except Exception:                    # noqa: BLE001
 
 class NullPTT:
     """Δεν κάνει τίποτα - για VOX ή ακουστική λειτουργία."""
-    name = 'VOX / κανένα'
+    name = 'VOX'
 
     def key(self):    pass
     def unkey(self):  pass
