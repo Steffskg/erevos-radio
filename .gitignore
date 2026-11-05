@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ό,τι παράγει το πρόγραμμα στον υπολογιστή του χρήστη
+erevos_inbox/
+*.npy
+erevos_log.txt
+erevos-settings.json
+.erevos-radio.json
+
+# Πακετάρισμα
+build/
+dist/
+*.spec
